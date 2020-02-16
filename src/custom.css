@@ -1,0 +1,33 @@
+body {
+	/*background-color: #f5f5f5;*/
+	background-color: black;
+	/*background-color: #f3ffbd;*/
+}
+
+p {
+	color: #247ba0;
+}
+
+a {
+	color: #247ba0;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.active {
+	color: #f56565;
+}
+
+.margin-around {
+	margin: 3em;
+}
+
+.no-border {
+	border: 0;
+}
+
+.pt-6 {
+	padding-top: 6rem !important;
+}

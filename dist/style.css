@@ -1,0 +1,27 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+/* Custom css */
+body {
+	background-color: #f5f5f5;
+	/*background-color: #f3ffbd;*/
+}
+
+p {
+	color: #247ba0;
+}
+
+a {
+	color: #247ba0;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.active {
+	color: #f56565;
+}
